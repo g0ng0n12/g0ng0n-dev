@@ -1,6 +1,6 @@
 ![I am a passionate self-taught programmer...](https://github.com/g0ng0n-dev/g0ng0n-dev/blob/main/newBanner.jpg)
 
-### Hi there 👋, my name is Gonzalo
+### Hi there 👋, my name is Gon
 #### I am a passionate self-taught programmer...
 
 ... who undertakes complex assignments, meets tight deadlines and delivers superior performance. I have practical knowledge of multiple backend technologies and frameworks mainly related to Backend technologies. I have worked on several projects that succeeded and are now live on the web.
@@ -11,8 +11,8 @@ Skills: Java 8+ | ES2016+ | ReactJs, Next Js, Redux |  REST API Design & GraphQL
 
 
 
-- 🌱 I’m currently learning Rust & Elixir 
-- 📫 How to reach me: g0ng0n.dev@gmail.com 
+- 🌱 I’m currently learning Elixir & Rust 
+- 📫 How to reach me: d3vg0n3@pm.me
 
 
 #### Links:
